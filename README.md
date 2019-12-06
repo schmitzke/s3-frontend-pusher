@@ -40,8 +40,7 @@ If you have created a .s3-frontend-pusher file you can run the command omitting 
 
 ```
 s3-frontend-pusher --src=folder
-``
-
+```
 
 ## CAVEATS
 
